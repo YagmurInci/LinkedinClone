@@ -1,2 +1,0 @@
-# LinkedinClone
-ödev3
